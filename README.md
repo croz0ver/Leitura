@@ -13,5 +13,3 @@
 2. Rode o comando npm install ou yarn install
 3. Lembre-se de que o servidor dever estar em execução
 4. Inicie e execute a aplicação com o comando npm start ou yarn start
-
-
